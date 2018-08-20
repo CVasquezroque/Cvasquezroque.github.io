@@ -1,0 +1,167 @@
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="ejemplo.com" resolutions="1x" timestamp="1534606241309">
+  <folder name="css">
+    <file name="site_global.css" crc="3999436171"/>
+    <file name="index.css" crc="335680815" ref="index"/>
+    <file name="nomq_index.css" crc="3767276521" ref="index"/>
+    <file name="sin-t_tulo-5.css" crc="354170127" ref="sin-título-5"/>
+    <file name="nomq_sin-t_tulo-5.css" crc="4249304856" ref="sin-título-5"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:sin-título-5"/>
+    <file name="museutils.js" crc="3803043152" ref="index:sin-título-5"/>
+    <file name="whatinput.js" crc="86476730" ref="index:sin-título-5"/>
+    <file name="museconfig.js" crc="4153641093" ref="index:sin-título-5"/>
+    <file name="webpro.js" crc="242022427" ref="index"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:sin-título-5"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index"/>
+    <file name="musewpdisclosure.js" crc="119288625" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="530399994" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:sin-título-5"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index:sin-título-5"/>
+    <file name="require.js" crc="4157109226" ref="index:sin-título-5"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="330758557" ref="index"/>
+    <file name="placeholder-image.png" crc="4105431061" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index:sin-título-5"/>
+    <file name="35032497-intérieur-white-room-vintage-avec-mur-de-brique-et-de-plancher-en-bois-comme-fond-pour-le-placement-de.jpg" crc="158006214" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="fondo1.jpg" crc="3832118670" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="flecha-izquierda.png" crc="3975364059" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="flecha-derecha.png" crc="152649081" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="mundocolorideas_final-crop-u7684.png" crc="281219429" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="brochure.jpg" crc="4178546232" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="grafico.png" crc="412497843" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="web.png" crc="329871790" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="app.png" crc="484025998" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="placeholder-image-crop-u6744.png" crc="508183349" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="placeholder-image-crop-u6767.png" crc="508183349" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mundocolorideas_version4-crop-u6665.png" crc="4023724487" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mundocolorideas_version4-crop-u66652.png" crc="120686079" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mundocolorideas_final-crop-u76842.png" crc="4101498576" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="placeholder-image-crop-u67672.png" crc="508183349" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="brochure-u5093-fr.jpg" crc="4087272629" ref="index"/>
+    <file name="placeholder-image-crop-u67442.png" crc="508183349" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mundocolorideas_version4-crop-u66653.png" crc="120686079" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mundocolorideas_final-crop-u76843.png" crc="4101498576" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="placeholder-image-crop-u67673.png" crc="508183349" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="brochure-u5093-fr2.jpg" crc="266922745" ref="index"/>
+    <file name="placeholder-image-crop-u67443.png" crc="508183349" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="menu.png" crc="3935061649" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="cerrado.png" crc="473227605" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mundocolorideas_version4-crop-u66654.png" crc="120686079" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mundocolorideas_final-crop-u76844.png" crc="4101498576" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="brochure-u5093-fr3.jpg" crc="516128316" ref="index"/>
+    <file name="placeholder-image-crop-u67444.png" crc="508183349" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="placeholder-image-crop-u67674.png" crc="508183349" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mundocolorideas_version4-crop-u66655.png" crc="120686079" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="mundocolorideas_final-crop-u76845.png" crc="4101498576" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="brochure-u5093-fr4.jpg" crc="280894903" ref="index"/>
+    <file name="placeholder-image-crop-u67445.png" crc="508183349" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="placeholder-image-crop-u67675.png" crc="508183349" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="185884915" seo="true" mt="1534390064231" redirect="true"/>
+  <file name="sin-título-5.html" crc="4000298037" seo="true" mt="1534123989319" redirect="true"/>
+</manifest>
