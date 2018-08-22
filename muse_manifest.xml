@@ -1,0 +1,128 @@
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="index.html" resolutions="1x" timestamp="1534935421698">
+  <folder name="css">
+    <file name="site_global.css" crc="3999436171"/>
+    <file name="index.css" crc="231194986" ref="index"/>
+    <file name="nomq_index.css" crc="3991808232" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
+    <file name="museutils.js" crc="3803043152" ref="index"/>
+    <file name="whatinput.js" crc="86476730" ref="index"/>
+    <file name="museconfig.js" crc="4153641093" ref="index"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index"/>
+    <file name="webpro.js" crc="242022427" ref="index"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="index"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="index"/>
+    <file name="touchswipe.js" crc="4066113679" ref="index"/>
+    <file name="jquery.musemenu.js" crc="3784699396" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index"/>
+    <file name="jquery.scrolleffects.js" crc="530399994" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index"/>
+    <file name="require.js" crc="4157109226" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="favicon.ico" crc="330758557" ref="index"/>
+    <file name="logo-pucp-full-color.png" crc="3889186215" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo_oficial.png" crc="4092033974" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="finger-numbness-image-design-1.jpg" crc="114862148" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="microscopio-laboratorio-investigacion-analisis-lente-optica-cientifico-fondos-de-pantalla-hd-professor-falkencom_.jpg" crc="393587121" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="enginyeria-biomedica.jpg" crc="111394423" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="flecha-izquierda.png" crc="3975364059" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="flecha-derecha.png" crc="152649081" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="index"/>
+    <file name="dolor-en-la-muneca.jpg" crc="4179996241" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="f28-01-9781455775774100x134.jpg" crc="3987298304" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dequervainsft.jpg" crc="4114553296" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="502865767-56a6d9d85f9b58b7d0e51c49.jpg" crc="4239080399" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo-pucp-full-color-crop-u9599.png" crc="4173543181" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="f28-01-9781455775774-crop-u11406.jpg" crc="437068473" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dequervainsft-crop-u11431.jpg" crc="4007450875" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="502865767-56a6d9d85f9b58b7d0e51c49-u11282-fr.jpg" crc="290885269" ref="index"/>
+    <file name="logo-pucp-full-color-crop-u95992.png" crc="4173543181" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="f28-01-9781455775774-crop-u114062.jpg" crc="437068473" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dequervainsft-crop-u114312.jpg" crc="4007450875" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo-pucp-full-color-crop-u95993.png" crc="4173543181" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="f28-01-9781455775774-crop-u114063.jpg" crc="437068473" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dequervainsft-crop-u114313.jpg" crc="4007450875" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="logo-pucp-full-color-crop-u95994.png" crc="4173543181" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="f28-01-9781455775774-crop-u114064.jpg" crc="437068473" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="dequervainsft-crop-u114314.jpg" crc="4007450875" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+  </folder>
+  <file name="index.html" crc="163814771" seo="true" mt="1534935349832" redirect="true"/>
+</manifest>
