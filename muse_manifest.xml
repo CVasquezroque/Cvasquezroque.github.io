@@ -1,8 +1,8 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="index.html" resolutions="1x" timestamp="1535553230456">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="index.html" resolutions="1x" timestamp="1535553612928">
   <folder name="css">
     <file name="site_global.css" crc="3999436171"/>
-    <file name="index.css" crc="3959073402" ref="index"/>
-    <file name="nomq_index.css" crc="146881393" ref="index"/>
+    <file name="index.css" crc="3764929076" ref="index"/>
+    <file name="nomq_index.css" crc="178218808" ref="index"/>
     <file name="semana-1.css" crc="3863847189" ref="semana-1"/>
     <file name="nomq_semana-1.css" crc="4212025931" ref="semana-1"/>
     <file name="semana-2.css" crc="4134266750" ref="semana-2"/>
@@ -237,7 +237,7 @@
     <file name="state-of-the-art-modern-website-u18887-fr.jpg" crc="518639726" ref="semana-2"/>
     <file name="state-of-the-art-modern-website-u18887-fr2.jpg" crc="4075659211" ref="semana-2"/>
   </folder>
-  <file name="index.html" crc="3919776054" seo="true" mt="1535552960892" redirect="true"/>
+  <file name="index.html" crc="470764602" seo="true" mt="1535553589130" redirect="true"/>
   <file name="semana-1.html" crc="3785075912" seo="true" mt="1535551205109" redirect="true"/>
   <file name="semana-2.html" crc="4263296232" seo="true" mt="1535550979908" redirect="true"/>
 </manifest>
