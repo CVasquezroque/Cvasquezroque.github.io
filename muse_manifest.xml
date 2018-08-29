@@ -1,46 +1,33 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="index.html" resolutions="1x" timestamp="1534935421698">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="index.html" resolutions="1x" timestamp="1535551224098">
   <folder name="css">
     <file name="site_global.css" crc="3999436171"/>
-    <file name="index.css" crc="231194986" ref="index"/>
-    <file name="nomq_index.css" crc="3991808232" ref="index"/>
+    <file name="index.css" crc="3784361880" ref="index"/>
+    <file name="nomq_index.css" crc="153770557" ref="index"/>
+    <file name="semana-1.css" crc="3863847189" ref="semana-1"/>
+    <file name="nomq_semana-1.css" crc="4212025931" ref="semana-1"/>
+    <file name="semana-2.css" crc="4134266750" ref="semana-2"/>
+    <file name="nomq_semana-2.css" crc="463343683" ref="semana-2"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index"/>
-    <file name="museutils.js" crc="3803043152" ref="index"/>
-    <file name="whatinput.js" crc="86476730" ref="index"/>
-    <file name="museconfig.js" crc="4153641093" ref="index"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:semana-1:semana-2"/>
+    <file name="museutils.js" crc="3803043152" ref="index:semana-1:semana-2"/>
+    <file name="whatinput.js" crc="86476730" ref="index:semana-1:semana-2"/>
+    <file name="museconfig.js" crc="4153641093" ref="index:semana-1:semana-2"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:semana-1:semana-2"/>
     <file name="webpro.js" crc="242022427" ref="index"/>
     <file name="musewpslideshow.js" crc="457073769" ref="index"/>
     <file name="jquery.museoverlay.js" crc="483674903" ref="index"/>
     <file name="touchswipe.js" crc="4066113679" ref="index"/>
     <file name="jquery.musemenu.js" crc="3784699396" ref="index"/>
-    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index"/>
+    <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:semana-1:semana-2"/>
     <file name="jquery.scrolleffects.js" crc="530399994" ref="index"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index"/>
-    <file name="jquery.museresponsive.js" crc="3955820958" ref="index"/>
-    <file name="require.js" crc="4157109226" ref="index"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:semana-1:semana-2"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index:semana-1:semana-2"/>
+    <file name="require.js" crc="4157109226" ref="index:semana-1:semana-2"/>
   </folder>
   <folder name="images">
     <file name="favicon.ico" crc="330758557" ref="index"/>
-    <file name="logo-pucp-full-color.png" crc="3889186215" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="logo_oficial.png" crc="4092033974" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="finger-numbness-image-design-1.jpg" crc="114862148" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-      <caption webpage="index" alt=""/>
-    </file>
-    <file name="blank.gif" crc="4208392903" ref="index"/>
+    <file name="blank.gif" crc="4208392903" ref="index:semana-1:semana-2"/>
     <file name="microscopio-laboratorio-investigacion-analisis-lente-optica-cientifico-fondos-de-pantalla-hd-professor-falkencom_.jpg" crc="393587121" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -70,59 +57,187 @@
       <caption webpage="index" alt=""/>
     </file>
     <file name="loading.gif" crc="3815509949" ref="index"/>
-    <file name="dolor-en-la-muneca.jpg" crc="4179996241" seo="true" ref="index">
+    <file name="logo-pucp-full-color2.png" crc="3796644142" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="finger-numbness-image-design-3.jpg" crc="133317962" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="f28-01-9781455775774100x134.jpg" crc="3987298304" seo="true" ref="index">
+    <file name="get-the-best-out-of-your-project-manager.jpg" crc="4091468042" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="dequervainsft.jpg" crc="4114553296" seo="true" ref="index">
+    <file name="problematica-u17708-7-fr.jpg" crc="3844954408" ref="index"/>
+    <file name="united-slider-solutions.jpg" crc="4076274005" ref="index">
+      <caption webpage="index" alt=" SEMANA 4"/>
+      <caption webpage="index" alt=" SEMANA 4"/>
+      <caption webpage="index" alt=" SEMANA 4"/>
+      <caption webpage="index" alt=" SEMANA 4"/>
+      <caption webpage="index" alt=" SEMANA 4"/>
+    </file>
+    <file name="descarga.jpg" crc="402253777" ref="index">
+      <caption webpage="index" alt=" SEMANA 5"/>
+    </file>
+    <file name="project-management3x2.jpg" crc="4101160873" ref="index">
+      <caption webpage="index" alt=" SEMANA 3"/>
+      <caption webpage="index" alt=" SEMANA 3"/>
+      <caption webpage="index" alt=" SEMANA 3"/>
+      <caption webpage="index" alt=" SEMANA 3"/>
+      <caption webpage="index" alt=" SEMANA 3"/>
+    </file>
+    <file name="descarga2.jpg" crc="3775571061" ref="index">
+      <caption webpage="index" alt=" SEMANA 2"/>
+      <caption webpage="index" alt=" SEMANA 2"/>
+      <caption webpage="index" alt=" SEMANA 2"/>
+      <caption webpage="index" alt=" SEMANA 2"/>
+      <caption webpage="index" alt=" SEMANA 2"/>
+    </file>
+    <file name="stack_of_copy_paper.jpg" crc="4021261061" ref="index">
+      <caption webpage="index" alt=" SEMANA 14"/>
+      <caption webpage="index" alt=" SEMANA 14"/>
+      <caption webpage="index" alt=" SEMANA 14"/>
+      <caption webpage="index" alt=" SEMANA 14"/>
+      <caption webpage="index" alt=" SEMANA 14"/>
+    </file>
+    <file name="process-improvement.jpg" crc="256724367" ref="index">
+      <caption webpage="index" alt=" SEMANA 13"/>
+      <caption webpage="index" alt=" SEMANA 13"/>
+      <caption webpage="index" alt=" SEMANA 13"/>
+      <caption webpage="index" alt=" SEMANA 13"/>
+      <caption webpage="index" alt=" SEMANA 13"/>
+    </file>
+    <file name="2300.jpg" crc="4021284734" ref="index">
+      <caption webpage="index" alt=" SEMANA 12"/>
+      <caption webpage="index" alt=" SEMANA 12"/>
+      <caption webpage="index" alt=" SEMANA 12"/>
+      <caption webpage="index" alt=" SEMANA 12"/>
+      <caption webpage="index" alt=" SEMANA 12"/>
+    </file>
+    <file name="800px_colourbox4638774.jpg" crc="3937532168" ref="index">
+      <caption webpage="index" alt=" SEMANA 11"/>
+      <caption webpage="index" alt=" SEMANA 11"/>
+      <caption webpage="index" alt=" SEMANA 11"/>
+      <caption webpage="index" alt=" SEMANA 11"/>
+      <caption webpage="index" alt=" SEMANA 11"/>
+    </file>
+    <file name="cnc2.jpg" crc="3983043262" ref="index">
+      <caption webpage="index" alt=" SEMANA 10"/>
+      <caption webpage="index" alt=" SEMANA 10"/>
+      <caption webpage="index" alt=" SEMANA 10"/>
+      <caption webpage="index" alt=" SEMANA 10"/>
+      <caption webpage="index" alt=" SEMANA 10"/>
+    </file>
+    <file name="3dprinting-esc-2018-61234.jpg" crc="3940093385" ref="index">
+      <caption webpage="index" alt=" SEMANA 9"/>
+      <caption webpage="index" alt=" SEMANA 9"/>
+      <caption webpage="index" alt=" SEMANA 9"/>
+      <caption webpage="index" alt=" SEMANA 9"/>
+      <caption webpage="index" alt=" SEMANA 9"/>
+    </file>
+    <file name="onshape_ipad_pro-780x468.jpg" crc="3970107518" ref="index">
+      <caption webpage="index" alt=" SEMANA 8"/>
+      <caption webpage="index" alt=" SEMANA 8"/>
+      <caption webpage="index" alt=" SEMANA 8"/>
+      <caption webpage="index" alt=" SEMANA 8"/>
+      <caption webpage="index" alt=" SEMANA 8"/>
+    </file>
+    <file name="2.jpg" crc="4160531489" ref="index">
+      <caption webpage="index" alt=" SEMANA 7"/>
+      <caption webpage="index" alt=" SEMANA 7"/>
+      <caption webpage="index" alt=" SEMANA 7"/>
+      <caption webpage="index" alt=" SEMANA 7"/>
+      <caption webpage="index" alt=" SEMANA 7"/>
+    </file>
+    <file name="red-pen-drawing-puzzle-piece-solution-concept-d-illustration-73972386.jpg" crc="253093861" ref="index">
+      <caption webpage="index" alt=" SEMANA 6"/>
+      <caption webpage="index" alt=" SEMANA 6"/>
+      <caption webpage="index" alt=" SEMANA 6"/>
+      <caption webpage="index" alt=" SEMANA 6"/>
+      <caption webpage="index" alt=" SEMANA 6"/>
+    </file>
+    <file name="logo_oficial2.png" crc="426805995" seo="true" ref="index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="502865767-56a6d9d85f9b58b7d0e51c49.jpg" crc="4239080399" ref="index">
+    <file name="logo-pucp-full-color2-crop-u9599.png" crc="3955690485" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="logo-pucp-full-color-crop-u9599.png" crc="4173543181" seo="true" ref="index">
+    <file name="get-the-best-out-of-your-project-manager-u11215-fr.jpg" crc="4047370813" ref="index"/>
+    <file name="logo-pucp-full-color2-crop-u95992.png" crc="3955690485" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="f28-01-9781455775774-crop-u11406.jpg" crc="437068473" seo="true" ref="index">
+    <file name="logo-pucp-full-color2-crop-u95993.png" crc="3955690485" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="dequervainsft-crop-u11431.jpg" crc="4007450875" seo="true" ref="index">
+    <file name="logo-pucp-full-color2-crop-u95994.png" crc="3955690485" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
-    <file name="502865767-56a6d9d85f9b58b7d0e51c49-u11282-fr.jpg" crc="290885269" ref="index"/>
-    <file name="logo-pucp-full-color-crop-u95992.png" crc="4173543181" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="42784440-m-2000x1332-29.jpg" crc="327675110" ref="semana-1">
+      <caption webpage="semana-1" alt=""/>
     </file>
-    <file name="f28-01-9781455775774-crop-u114062.jpg" crc="437068473" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="istock-177335512-copy.jpg" crc="4230928445" ref="semana-1">
+      <caption webpage="semana-1" alt=""/>
     </file>
-    <file name="dequervainsft-crop-u114312.jpg" crc="4007450875" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="ufegnrb.jpg" crc="31119895" ref="semana-1">
+      <caption webpage="semana-1" alt=""/>
     </file>
-    <file name="logo-pucp-full-color-crop-u95993.png" crc="4173543181" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="f28-01-9781455775774.jpg" crc="143935056" ref="semana-1">
+      <caption webpage="semana-1" alt=""/>
     </file>
-    <file name="f28-01-9781455775774-crop-u114063.jpg" crc="437068473" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="i2013120910080600091-959x720-crop-u18552.jpg" crc="4065712208" seo="true" ref="semana-1">
+      <caption webpage="semana-1" alt=""/>
     </file>
-    <file name="dequervainsft-crop-u114313.jpg" crc="4007450875" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="1535125960368.jpg" crc="305197881" ref="semana-1">
+      <caption webpage="semana-1" alt=""/>
     </file>
-    <file name="logo-pucp-full-color-crop-u95994.png" crc="4173543181" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="42784440-m-2000x1332-29-u15456-fr.jpg" crc="350057639" ref="semana-1"/>
+    <file name="istock-177335512-copy-u18282-fr.jpg" crc="4219249972" ref="semana-1"/>
+    <file name="i2013120910080600091-959x720-crop-u185522.jpg" crc="4065712208" seo="true" ref="semana-1">
+      <caption webpage="semana-1" alt=""/>
     </file>
-    <file name="f28-01-9781455775774-crop-u114064.jpg" crc="437068473" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="42784440-m-2000x1332-29-u15456-fr2.jpg" crc="124187616" ref="semana-1"/>
+    <file name="istock-177335512-copy-u18282-fr2.jpg" crc="358818230" ref="semana-1"/>
+    <file name="i2013120910080600091-959x720-crop-u185523.jpg" crc="4065712208" seo="true" ref="semana-1">
+      <caption webpage="semana-1" alt=""/>
     </file>
-    <file name="dequervainsft-crop-u114314.jpg" crc="4007450875" seo="true" ref="index">
-      <caption webpage="index" alt=""/>
+    <file name="42784440-m-2000x1332-29-u15456-fr3.jpg" crc="446727828" ref="semana-1"/>
+    <file name="i2013120910080600091-959x720-crop-u185524.jpg" crc="4065712208" seo="true" ref="semana-1">
+      <caption webpage="semana-1" alt=""/>
     </file>
+    <file name="42784440-m-2000x1332-29-u15456-fr4.jpg" crc="347898520" ref="semana-1"/>
+    <file name="i2013120910080600091-959x720-crop-u185525.jpg" crc="4065712208" seo="true" ref="semana-1">
+      <caption webpage="semana-1" alt=""/>
+    </file>
+    <file name="state-of-the-art-modern-website.jpg" crc="3963348554" ref="semana-2">
+      <caption webpage="semana-2" alt=""/>
+    </file>
+    <file name="captura.jpg" crc="265375023" seo="true" ref="semana-2">
+      <caption webpage="semana-2" alt=""/>
+      <caption webpage="semana-2" alt=""/>
+      <caption webpage="semana-2" alt=""/>
+      <caption webpage="semana-2" alt=""/>
+      <caption webpage="semana-2" alt=""/>
+    </file>
+    <file name="iontoforesis.jpg" crc="3810500537" ref="semana-2">
+      <caption webpage="semana-2" alt=""/>
+    </file>
+    <file name="tipos-de-cabezales-de-los-tratamientos.png" crc="285780667" seo="true" ref="semana-2">
+      <caption webpage="semana-2" alt=""/>
+      <caption webpage="semana-2" alt=""/>
+      <caption webpage="semana-2" alt=""/>
+      <caption webpage="semana-2" alt=""/>
+      <caption webpage="semana-2" alt=""/>
+    </file>
+    <file name="state-of-the-art-modern-website-u18887-fr.jpg" crc="518639726" ref="semana-2"/>
+    <file name="state-of-the-art-modern-website-u18887-fr2.jpg" crc="4075659211" ref="semana-2"/>
   </folder>
-  <file name="index.html" crc="163814771" seo="true" mt="1534935349832" redirect="true"/>
+  <file name="index.html" crc="4034225850" seo="true" mt="1535414692598" redirect="true"/>
+  <file name="semana-1.html" crc="3785075912" seo="true" mt="1535551205109" redirect="true"/>
+  <file name="semana-2.html" crc="4263296232" seo="true" mt="1535550979908" redirect="true"/>
 </manifest>
