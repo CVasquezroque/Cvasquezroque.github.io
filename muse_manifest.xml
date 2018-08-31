@@ -1,10 +1,10 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="index.html" resolutions="1x" timestamp="1535745018232">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="index.html" resolutions="1x" timestamp="1535745695073">
   <folder name="css">
     <file name="site_global.css" crc="3999436171"/>
     <file name="index.css" crc="4235553774" ref="index"/>
     <file name="nomq_index.css" crc="3954772228" ref="index"/>
-    <file name="semana-1.css" crc="3928018453" ref="semana-1"/>
-    <file name="nomq_semana-1.css" crc="128378081" ref="semana-1"/>
+    <file name="semana-1.css" crc="4254033558" ref="semana-1"/>
+    <file name="nomq_semana-1.css" crc="159667282" ref="semana-1"/>
     <file name="semana-2.css" crc="167403713" ref="semana-2"/>
     <file name="nomq_semana-2.css" crc="3827072617" ref="semana-2"/>
   </folder>
@@ -21,12 +21,12 @@
     <file name="jquery.musemenu.js" crc="3784699396" ref="index"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:semana-1:semana-2"/>
     <file name="jquery.scrolleffects.js" crc="530399994" ref="index"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:semana-1:semana-2"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:semana-2"/>
     <file name="jquery.museresponsive.js" crc="3955820958" ref="index:semana-1:semana-2"/>
     <file name="require.js" crc="4157109226" ref="index:semana-1:semana-2"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="330758557" ref="index"/>
+    <file name="favicon.ico" crc="330758557" ref="index:semana-1"/>
     <file name="blank.gif" crc="4208392903" ref="index:semana-1:semana-2"/>
     <file name="microscopio-laboratorio-investigacion-analisis-lente-optica-cientifico-fondos-de-pantalla-hd-professor-falkencom_.jpg" crc="393587121" seo="true" ref="index">
       <caption webpage="index" alt=""/>
@@ -302,6 +302,6 @@
     </file>
   </folder>
   <file name="index.html" crc="307716723" seo="true" mt="1535744846149" redirect="true"/>
-  <file name="semana-1.html" crc="3918780806" seo="true" mt="1535744855499" redirect="true"/>
+  <file name="semana-1.html" crc="354218866" seo="true" mt="1535745666950" redirect="true"/>
   <file name="semana-2.html" crc="374053836" seo="true" mt="1535744592812" redirect="true"/>
 </manifest>
