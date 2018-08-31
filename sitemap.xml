@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://index.html/index.html</loc>
-    <lastmod>2018-08-29</lastmod>
+    <lastmod>2018-08-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -32,10 +32,25 @@
     <image:image>
       <image:loc>http://index.html/images/logo-pucp-full-color2-crop-u95994.png</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/rgara.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/rgara-crop-u19682.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/rgara-crop-u196822.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/rgara-crop-u196823.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/rgara-crop-u196824.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://index.html/semana-1.html</loc>
-    <lastmod>2018-08-29</lastmod>
+    <lastmod>2018-08-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -53,17 +68,56 @@
     <image:image>
       <image:loc>http://index.html/images/i2013120910080600091-959x720-crop-u185525.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/tablaa-crop-u19506.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/tablaa.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://index.html/semana-2.html</loc>
-    <lastmod>2018-08-29</lastmod>
+    <lastmod>2018-08-31</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://index.html/images/captura.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://index.html/images/tipos-de-cabezales-de-los-tratamientos.png</image:loc>
+      <image:loc>http://index.html/images/dsip1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/disp2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/disp3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/cuadro.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/disp2-crop-u19614.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/disp3-crop-u19636.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/disp2-crop-u196142.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/disp3-crop-u196362.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/disp2-crop-u196143.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/disp3-crop-u196363.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/disp2-crop-u196144.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/disp3-crop-u196364.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
