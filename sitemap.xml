@@ -2,20 +2,23 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://index.html/index.html</loc>
-    <lastmod>2018-09-15</lastmod>
+    <lastmod>2018-09-18</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
-      <image:loc>http://index.html/images/microscopio-laboratorio-investigacion-analisis-lente-optica-cientifico-fondos-de-pantalla-hd-professor-falkencom_.jpg</image:loc>
+      <image:loc>http://index.html/images/logo-pucp-full-color2.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://index.html/images/enginyeria-biomedica.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://index.html/images/logo-pucp-full-color2.png</image:loc>
+      <image:loc>http://index.html/images/microscopio-laboratorio-investigacion-analisis-lente-optica-cientifico-fondos-de-pantalla-hd-professor-falkencom_.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://index.html/images/finger-numbness-image-design-3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/rgara.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://index.html/images/logo_oficial2.png</image:loc>
@@ -24,25 +27,22 @@
       <image:loc>http://index.html/images/logo-pucp-full-color2-crop-u9599.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://index.html/images/logo-pucp-full-color2-crop-u95992.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://index.html/images/logo-pucp-full-color2-crop-u95993.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://index.html/images/logo-pucp-full-color2-crop-u95994.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://index.html/images/rgara.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://index.html/images/rgara-crop-u19682.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/logo-pucp-full-color2-crop-u95992.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://index.html/images/rgara-crop-u196822.jpg</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://index.html/images/logo-pucp-full-color2-crop-u95993.png</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://index.html/images/rgara-crop-u196823.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/logo-pucp-full-color2-crop-u95994.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://index.html/images/rgara-crop-u196824.jpg</image:loc>
@@ -54,7 +54,16 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
+      <image:loc>http://index.html/images/tablaa-crop-u19506.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://index.html/images/i2013120910080600091-959x720-crop-u18552.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/economico.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/tablaa.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://index.html/images/i2013120910080600091-959x720-crop-u185522.jpg</image:loc>
@@ -68,15 +77,6 @@
     <image:image>
       <image:loc>http://index.html/images/i2013120910080600091-959x720-crop-u185525.jpg</image:loc>
     </image:image>
-    <image:image>
-      <image:loc>http://index.html/images/tablaa-crop-u19506.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://index.html/images/tablaa.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://index.html/images/economico.jpg</image:loc>
-    </image:image>
   </url>
   <url>
     <loc>http://index.html/semana-2.html</loc>
@@ -84,28 +84,25 @@
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
+      <image:loc>http://index.html/images/home.png</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://index.html/images/captura.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://index.html/images/disp3.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://index.html/images/disp3-crop-u19636.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://index.html/images/disp3-crop-u196362.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://index.html/images/disp3-crop-u196363.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://index.html/images/disp3-crop-u196364.jpg</image:loc>
+      <image:loc>http://index.html/images/tabla1.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://index.html/images/xglove.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://index.html/images/figura6.jpg</image:loc>
+      <image:loc>http://index.html/images/figura6-crop-u21099.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/figura6-crop-u27229.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://index.html/images/guante.jpg</image:loc>
@@ -117,19 +114,22 @@
       <image:loc>http://index.html/images/cuadrocomparativo2.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://index.html/images/home.png</image:loc>
+      <image:loc>http://index.html/images/figura6.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://index.html/images/tabla1.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://index.html/images/figura6-crop-u21099.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://index.html/images/figura6-crop-u27229.jpg</image:loc>
+      <image:loc>http://index.html/images/disp3-crop-u19636.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://index.html/images/tabla1920x480.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/disp3-crop-u196362.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/disp3-crop-u196363.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/disp3-crop-u196364.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -173,23 +173,29 @@
   </url>
   <url>
     <loc>http://index.html/semana-4.html</loc>
-    <lastmod>2018-09-15</lastmod>
+    <lastmod>2018-09-19</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://index.html/images/home.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://index.html/images/manoprop1300x274.jpg</image:loc>
+      <image:loc>http://index.html/images/manoprop1.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://index.html/images/manoprop2323x167.jpg</image:loc>
+      <image:loc>http://index.html/images/manoprop2.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://index.html/images/cuchilla403x248.jpg</image:loc>
+      <image:loc>http://index.html/images/cuchilla.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://index.html/images/resorte279x350.jpg</image:loc>
+      <image:loc>http://index.html/images/resorte.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/propuestas.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/prop1.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
