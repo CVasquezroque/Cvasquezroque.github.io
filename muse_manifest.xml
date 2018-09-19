@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="index.html" resolutions="1x" timestamp="1537360652635">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="index.html" resolutions="1x" timestamp="1537361557749">
   <folder name="css">
     <file name="site_global.css" crc="3999436171"/>
     <file name="semana-2.css" crc="3846684299" ref="semana-2"/>
@@ -9,8 +9,8 @@
     <file name="nomq_semana-3.css" crc="4051636931" ref="semana-3"/>
     <file name="semana-1.css" crc="12028675" ref="semana-1"/>
     <file name="nomq_semana-1.css" crc="148388409" ref="semana-1"/>
-    <file name="semana-4.css" crc="3766051430" ref="semana-4"/>
-    <file name="nomq_semana-4.css" crc="4089481884" ref="semana-4"/>
+    <file name="semana-4.css" crc="61926273" ref="semana-4"/>
+    <file name="nomq_semana-4.css" crc="4131834819" ref="semana-4"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:semana-1:semana-2:semana-3:semana-4"/>
@@ -25,12 +25,12 @@
     <file name="jquery.musemenu.js" crc="3784699396" ref="index:semana-1"/>
     <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:semana-1:semana-2:semana-3"/>
     <file name="jquery.scrolleffects.js" crc="530399994" ref="index:semana-1"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:semana-1:semana-2:semana-3:semana-4"/>
+    <file name="html5shiv.js" crc="4241844378" ref="index:semana-1:semana-2:semana-3"/>
     <file name="jquery.museresponsive.js" crc="3955820958" ref="index:semana-1:semana-2:semana-3:semana-4"/>
     <file name="require.js" crc="4157109226" ref="index:semana-1:semana-2:semana-3:semana-4"/>
   </folder>
   <folder name="images">
-    <file name="favicon.ico" crc="330758557" ref="index"/>
+    <file name="favicon.ico" crc="330758557" ref="index:semana-4"/>
     <file name="logo-pucp-full-color2.png" crc="3796644142" seo="true" ref="index">
       <caption webpage="index" alt=""/>
     </file>
@@ -512,5 +512,5 @@
   <file name="semana-1.html" crc="425943871" seo="true" mt="1536269938814" redirect="true"/>
   <file name="semana-2.html" crc="3886068547" seo="true" mt="1537048035780" redirect="true"/>
   <file name="semana-3.html" crc="3913272837" seo="true" mt="1536272013370" redirect="true"/>
-  <file name="semana-4.html" crc="412806465" seo="true" mt="1537360407622" redirect="true"/>
+  <file name="semana-4.html" crc="284210027" seo="true" mt="1537361504131" redirect="true"/>
 </manifest>
