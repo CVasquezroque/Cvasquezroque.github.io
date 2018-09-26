@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://index.html/index.html</loc>
-    <lastmod>2018-09-18</lastmod>
+    <lastmod>2018-09-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -50,7 +50,7 @@
   </url>
   <url>
     <loc>http://index.html/semana-1.html</loc>
-    <lastmod>2018-09-06</lastmod>
+    <lastmod>2018-09-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -172,8 +172,8 @@
     </image:image>
   </url>
   <url>
-    <loc>http://index.html/semana-4.html</loc>
-    <lastmod>2018-09-19</lastmod>
+    <loc>http://index.html/semana-4-5.html</loc>
+    <lastmod>2018-09-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -196,6 +196,27 @@
     </image:image>
     <image:image>
       <image:loc>http://index.html/images/prop1.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://index.html/semana-6.html</loc>
+    <lastmod>2018-09-26</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://index.html/images/home.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/propuestas.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/presentaci%C3%B3npptx.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/whatsapp%20image%202018-09-25%20at%20212609.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/conceptosolucion.png</image:loc>
     </image:image>
   </url>
 </urlset>
