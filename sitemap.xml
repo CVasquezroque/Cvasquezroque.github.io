@@ -200,23 +200,32 @@
   </url>
   <url>
     <loc>http://index.html/semana-6.html</loc>
-    <lastmod>2018-09-26</lastmod>
+    <lastmod>2018-09-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://index.html/images/home.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://index.html/images/propuestas.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://index.html/images/presentaci%C3%B3npptx.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://index.html/images/whatsapp%20image%202018-09-25%20at%20212609.jpg</image:loc>
+      <image:loc>http://index.html/images/conceptosolucion.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://index.html/images/conceptosolucion.png</image:loc>
+      <image:loc>http://index.html/images/modular.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/presentaci%C3%B3npptx1145x645.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/concepto1cuadro.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/concepto2cuadro.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/concepto3cuadro.jpg</image:loc>
     </image:image>
   </url>
 </urlset>
