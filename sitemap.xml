@@ -173,7 +173,7 @@
   </url>
   <url>
     <loc>http://index.html/semana-4-5.html</loc>
-    <lastmod>2018-09-22</lastmod>
+    <lastmod>2018-09-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -190,9 +190,6 @@
     </image:image>
     <image:image>
       <image:loc>http://index.html/images/resorte.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://index.html/images/propuestas.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://index.html/images/prop1.jpg</image:loc>
@@ -226,6 +223,9 @@
     </image:image>
     <image:image>
       <image:loc>http://index.html/images/concepto3cuadro.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/cuadrodeflechas.jpg</image:loc>
     </image:image>
   </url>
   <url>
