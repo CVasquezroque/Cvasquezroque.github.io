@@ -1,4 +1,4 @@
-<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="index.html" resolutions="1x" timestamp="1538240507915">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="index.html" resolutions="1x" timestamp="1538240707901">
   <folder name="css">
     <file name="site_global.css" crc="3999436171"/>
     <file name="semana-2.css" crc="3846684299" ref="semana-2"/>
@@ -11,15 +11,17 @@
     <file name="nomq_semana-1.css" crc="272289785" ref="semana-1"/>
     <file name="semana-4-5.css" crc="4231948772" ref="semana-4-5"/>
     <file name="nomq_semana-4-5.css" crc="3974649172" ref="semana-4-5"/>
-    <file name="semana-6.css" crc="4028490317" ref="semana-6"/>
-    <file name="nomq_semana-6.css" crc="198024535" ref="semana-6"/>
+    <file name="semana-6.css" crc="377851233" ref="semana-6"/>
+    <file name="nomq_semana-6.css" crc="4229123489" ref="semana-6"/>
+    <file name="semana-6---copia.css" crc="341695303" ref="semana-6---copia"/>
+    <file name="nomq_semana-6---copia.css" crc="4040398337" ref="semana-6---copia"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:semana-1:semana-2:semana-3:semana-4-5:semana-6"/>
-    <file name="museutils.js" crc="3803043152" ref="index:semana-1:semana-2:semana-3:semana-4-5:semana-6"/>
-    <file name="whatinput.js" crc="86476730" ref="index:semana-1:semana-2:semana-3:semana-4-5:semana-6"/>
-    <file name="museconfig.js" crc="4153641093" ref="index:semana-1:semana-2:semana-3:semana-4-5:semana-6"/>
-    <file name="jquery.watch.js" crc="99325471" ref="index:semana-1:semana-2:semana-3:semana-4-5:semana-6"/>
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:semana-1:semana-2:semana-3:semana-4-5:semana-6:semana-6---copia"/>
+    <file name="museutils.js" crc="3803043152" ref="index:semana-1:semana-2:semana-3:semana-4-5:semana-6:semana-6---copia"/>
+    <file name="whatinput.js" crc="86476730" ref="index:semana-1:semana-2:semana-3:semana-4-5:semana-6:semana-6---copia"/>
+    <file name="museconfig.js" crc="4153641093" ref="index:semana-1:semana-2:semana-3:semana-4-5:semana-6:semana-6---copia"/>
+    <file name="jquery.watch.js" crc="99325471" ref="index:semana-1:semana-2:semana-3:semana-4-5:semana-6:semana-6---copia"/>
     <file name="webpro.js" crc="242022427" ref="index"/>
     <file name="musewpslideshow.js" crc="457073769" ref="index"/>
     <file name="jquery.museoverlay.js" crc="483674903" ref="index"/>
@@ -28,8 +30,8 @@
     <file name="jquery.musepolyfill.bgsize.js" crc="4148998990" ref="index:semana-1:semana-2:semana-3"/>
     <file name="jquery.scrolleffects.js" crc="530399994" ref="index:semana-1"/>
     <file name="html5shiv.js" crc="4241844378" ref="index:semana-1:semana-2:semana-3:semana-4-5"/>
-    <file name="jquery.museresponsive.js" crc="3955820958" ref="index:semana-1:semana-2:semana-3:semana-4-5:semana-6"/>
-    <file name="require.js" crc="4157109226" ref="index:semana-1:semana-2:semana-3:semana-4-5:semana-6"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="index:semana-1:semana-2:semana-3:semana-4-5:semana-6:semana-6---copia"/>
+    <file name="require.js" crc="4157109226" ref="index:semana-1:semana-2:semana-3:semana-4-5:semana-6:semana-6---copia"/>
   </folder>
   <folder name="images">
     <file name="favicon.ico" crc="330758557" ref="index:semana-6"/>
@@ -43,7 +45,7 @@
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="index:semana-1:semana-2:semana-3:semana-4-5:semana-6"/>
+    <file name="blank.gif" crc="4208392903" ref="index:semana-1:semana-2:semana-3:semana-4-5:semana-6:semana-6---copia"/>
     <file name="microscopio-laboratorio-investigacion-analisis-lente-optica-cientifico-fondos-de-pantalla-hd-professor-falkencom_.jpg" crc="393587121" seo="true" ref="index">
       <caption webpage="index" alt=""/>
       <caption webpage="index" alt=""/>
@@ -254,17 +256,17 @@
     <file name="i2013120910080600091-959x720-crop-u185525.jpg" crc="4065712208" seo="true" ref="semana-1">
       <caption webpage="semana-1" alt=""/>
     </file>
-    <file name="home.png" crc="3841854274" seo="true" ref="semana-2:semana-4-5:semana-6">
-      <caption webpage="semana-6" alt=""/>
-      <caption webpage="semana-6" alt=""/>
-      <caption webpage="semana-6" alt=""/>
-      <caption webpage="semana-6" alt=""/>
-      <caption webpage="semana-6" alt=""/>
+    <file name="home.png" crc="3841854274" seo="true" ref="semana-2:semana-4-5:semana-6:semana-6---copia">
       <caption webpage="semana-4" alt=""/>
       <caption webpage="semana-4" alt=""/>
       <caption webpage="semana-4" alt=""/>
       <caption webpage="semana-4" alt=""/>
       <caption webpage="semana-4" alt=""/>
+      <caption webpage="semana-6" alt=""/>
+      <caption webpage="semana-6" alt=""/>
+      <caption webpage="semana-6" alt=""/>
+      <caption webpage="semana-6" alt=""/>
+      <caption webpage="semana-6" alt=""/>
       <caption webpage="semana-4-5" alt=""/>
       <caption webpage="semana-4-5" alt=""/>
       <caption webpage="semana-4-5" alt=""/>
@@ -275,6 +277,11 @@
       <caption webpage="semana-2" alt=""/>
       <caption webpage="semana-2" alt=""/>
       <caption webpage="semana-2" alt=""/>
+      <caption webpage="semana-6---copia" alt=""/>
+      <caption webpage="semana-6---copia" alt=""/>
+      <caption webpage="semana-6---copia" alt=""/>
+      <caption webpage="semana-6---copia" alt=""/>
+      <caption webpage="semana-6---copia" alt=""/>
     </file>
     <file name="captura.jpg" crc="265375023" seo="true" ref="semana-2">
       <caption webpage="semana-2" alt=""/>
@@ -579,21 +586,36 @@
       <caption webpage="semana-6" alt=""/>
       <caption webpage="semana-6" alt=""/>
     </file>
-    <file name="concepto1cuadro.jpg" crc="26932736" seo="true" ref="semana-6">
+    <file name="concepto1cuadro.jpg" crc="26932736" seo="true" ref="semana-6:semana-6---copia">
+      <caption webpage="semana-6---copia" alt=""/>
+      <caption webpage="semana-6---copia" alt=""/>
+      <caption webpage="semana-6---copia" alt=""/>
+      <caption webpage="semana-6---copia" alt=""/>
+      <caption webpage="semana-6---copia" alt=""/>
       <caption webpage="semana-6" alt=""/>
       <caption webpage="semana-6" alt=""/>
       <caption webpage="semana-6" alt=""/>
       <caption webpage="semana-6" alt=""/>
       <caption webpage="semana-6" alt=""/>
     </file>
-    <file name="concepto2cuadro.jpg" crc="54580788" seo="true" ref="semana-6">
+    <file name="concepto2cuadro.jpg" crc="54580788" seo="true" ref="semana-6:semana-6---copia">
+      <caption webpage="semana-6---copia" alt=""/>
+      <caption webpage="semana-6---copia" alt=""/>
+      <caption webpage="semana-6---copia" alt=""/>
+      <caption webpage="semana-6---copia" alt=""/>
+      <caption webpage="semana-6---copia" alt=""/>
       <caption webpage="semana-6" alt=""/>
       <caption webpage="semana-6" alt=""/>
       <caption webpage="semana-6" alt=""/>
       <caption webpage="semana-6" alt=""/>
       <caption webpage="semana-6" alt=""/>
     </file>
-    <file name="concepto3cuadro.jpg" crc="4239244203" seo="true" ref="semana-6">
+    <file name="concepto3cuadro.jpg" crc="4239244203" seo="true" ref="semana-6:semana-6---copia">
+      <caption webpage="semana-6---copia" alt=""/>
+      <caption webpage="semana-6---copia" alt=""/>
+      <caption webpage="semana-6---copia" alt=""/>
+      <caption webpage="semana-6---copia" alt=""/>
+      <caption webpage="semana-6---copia" alt=""/>
       <caption webpage="semana-6" alt=""/>
       <caption webpage="semana-6" alt=""/>
       <caption webpage="semana-6" alt=""/>
@@ -606,5 +628,6 @@
   <file name="semana-2.html" crc="3886068547" seo="true" mt="1537048035780" redirect="true"/>
   <file name="semana-3.html" crc="3913272837" seo="true" mt="1536272013370" redirect="true"/>
   <file name="semana-4-5.html" crc="4241210079" seo="true" mt="1537626418648" redirect="true"/>
-  <file name="semana-6.html" crc="4211783683" seo="true" mt="1538240489398" redirect="true"/>
+  <file name="semana-6.html" crc="532973930" seo="true" mt="1538240693239" redirect="true"/>
+  <file name="semana-6---copia.html" crc="4203721856" seo="true" mt="1538240686452" redirect="true"/>
 </manifest>
