@@ -200,7 +200,7 @@
   </url>
   <url>
     <loc>http://index.html/semana-6.html</loc>
-    <lastmod>2018-10-03</lastmod>
+    <lastmod>2018-10-10</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -231,7 +231,22 @@
       <image:loc>http://index.html/images/cuadrodeflechas.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://index.html/images/-%20physical%20appearance-%20sounds-%20food%20preferences-%20potty%20training-%20temperament.jpg</image:loc>
+      <image:loc>http://index.html/images/act1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/act2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/act3.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://index.html/semana-8.html</loc>
+    <lastmod>2018-10-10</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://index.html/images/home.png</image:loc>
     </image:image>
   </url>
 </urlset>
