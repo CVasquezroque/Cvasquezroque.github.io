@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://index.html/index.html</loc>
-    <lastmod>2018-09-26</lastmod>
+    <lastmod>2018-10-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -80,7 +80,7 @@
   </url>
   <url>
     <loc>http://index.html/semana-2.html</loc>
-    <lastmod>2018-09-15</lastmod>
+    <lastmod>2018-10-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -134,7 +134,7 @@
   </url>
   <url>
     <loc>http://index.html/semana-3.html</loc>
-    <lastmod>2018-10-03</lastmod>
+    <lastmod>2018-10-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -175,8 +175,62 @@
     </image:image>
   </url>
   <url>
-    <loc>http://index.html/semana-4-5.html</loc>
-    <lastmod>2018-09-29</lastmod>
+    <loc>http://index.html/semana-6.html</loc>
+    <lastmod>2018-10-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://index.html/images/home.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/conceptosolucion.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/concepto1cuadro.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/concepto2cuadro.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/concepto3cuadro.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/act1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/act2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/act3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/concepto1cuadro950x421.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/concepto2cuadro950x420.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/concepto3cuadro950x420.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://index.html/semana-8.html</loc>
+    <lastmod>2018-10-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://index.html/images/home.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/cad1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/cad2.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://index.html/semana-4.html</loc>
+    <lastmod>2018-10-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -195,58 +249,43 @@
       <image:loc>http://index.html/images/resorte.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://index.html/images/prop1.jpg</image:loc>
+      <image:loc>http://index.html/images/cuadroestrategias.jpg</image:loc>
     </image:image>
   </url>
   <url>
-    <loc>http://index.html/semana-6.html</loc>
-    <lastmod>2018-10-10</lastmod>
+    <loc>http://index.html/semana-5.html</loc>
+    <lastmod>2018-10-12</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://index.html/images/home.png</image:loc>
     </image:image>
     <image:image>
+      <image:loc>http://index.html/images/prop1.jpg</image:loc>
+    </image:image>
+    <image:image>
       <image:loc>http://index.html/images/presentaci%C3%B3npptx.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/presentaci%C3%B3npptx1145x645.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/cuadrodeflechas.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://index.html/semana-7.html</loc>
+    <lastmod>2018-10-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://index.html/images/home.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://index.html/images/conceptosolucion.png</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://index.html/images/modular.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://index.html/images/presentaci%C3%B3npptx1145x645.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://index.html/images/concepto1cuadro.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://index.html/images/concepto2cuadro.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://index.html/images/concepto3cuadro.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://index.html/images/cuadrodeflechas.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://index.html/images/act1.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://index.html/images/act2.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://index.html/images/act3.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://index.html/semana-8.html</loc>
-    <lastmod>2018-10-10</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://index.html/images/home.png</image:loc>
     </image:image>
   </url>
 </urlset>
