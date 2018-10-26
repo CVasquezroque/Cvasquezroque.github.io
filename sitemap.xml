@@ -50,7 +50,7 @@
   </url>
   <url>
     <loc>http://index.html/semana-1.html</loc>
-    <lastmod>2018-09-22</lastmod>
+    <lastmod>2018-10-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -134,7 +134,7 @@
   </url>
   <url>
     <loc>http://index.html/semana-3.html</loc>
-    <lastmod>2018-10-12</lastmod>
+    <lastmod>2018-10-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -145,12 +145,6 @@
     </image:image>
     <image:image>
       <image:loc>http://index.html/images/hueso.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://index.html/images/articula.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://index.html/images/dinamica.jpg</image:loc>
     </image:image>
     <image:image>
       <image:loc>http://index.html/images/movi.jpg</image:loc>
@@ -168,15 +162,15 @@
       <image:loc>http://index.html/images/posturas.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://index.html/images/manomano.jpg</image:loc>
+      <image:loc>http://index.html/images/ganttactualizado.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://index.html/images/ganttactualizado.jpg</image:loc>
+      <image:loc>http://index.html/images/requerimientos.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://index.html/semana-6.html</loc>
-    <lastmod>2018-10-12</lastmod>
+    <lastmod>2018-10-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -186,31 +180,13 @@
       <image:loc>http://index.html/images/conceptosolucion.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://index.html/images/concepto1cuadro.jpg</image:loc>
+      <image:loc>http://index.html/images/propuesta1.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://index.html/images/concepto2cuadro.jpg</image:loc>
+      <image:loc>http://index.html/images/propuesta2.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://index.html/images/concepto3cuadro.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://index.html/images/act1.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://index.html/images/act2.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://index.html/images/act3.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://index.html/images/concepto1cuadro950x421.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://index.html/images/concepto2cuadro950x420.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://index.html/images/concepto3cuadro950x420.jpg</image:loc>
+      <image:loc>http://index.html/images/propuesta3.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -254,7 +230,7 @@
   </url>
   <url>
     <loc>http://index.html/semana-5.html</loc>
-    <lastmod>2018-10-12</lastmod>
+    <lastmod>2018-10-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -272,20 +248,38 @@
     <image:image>
       <image:loc>http://index.html/images/cuadrodeflechas.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/act1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/act2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/act3.jpg</image:loc>
+    </image:image>
   </url>
   <url>
     <loc>http://index.html/semana-7.html</loc>
-    <lastmod>2018-10-12</lastmod>
+    <lastmod>2018-10-26</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://index.html/images/home.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://index.html/images/conceptosolucion.png</image:loc>
+      <image:loc>http://index.html/images/img_20181026_133324.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://index.html/images/modular.png</image:loc>
+      <image:loc>http://index.html/images/img_20181026_133304.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/bocetofinal2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/bocetofinal1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/modular.jpg</image:loc>
     </image:image>
   </url>
   <url>
