@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://index.html/index.html</loc>
-    <lastmod>2018-10-24</lastmod>
+    <lastmod>2018-11-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
@@ -46,6 +46,30 @@
     </image:image>
     <image:image>
       <image:loc>http://index.html/images/rgara-crop-u196824.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://index.html/semana-4.html</loc>
+    <lastmod>2018-10-12</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://index.html/images/home.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/manoprop1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/manoprop2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/cuchilla.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/resorte.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/cuadroestrategias.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -205,27 +229,24 @@
     </image:image>
   </url>
   <url>
-    <loc>http://index.html/semana-4.html</loc>
-    <lastmod>2018-10-12</lastmod>
+    <loc>http://index.html/semana-9.html</loc>
+    <lastmod>2018-11-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://index.html/images/home.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://index.html/images/manoprop1.jpg</image:loc>
+      <image:loc>http://index.html/images/caracterizacionlongitud.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://index.html/images/manoprop2.jpg</image:loc>
+      <image:loc>http://index.html/images/caracterizacionpesos.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://index.html/images/cuchilla.jpg</image:loc>
+      <image:loc>http://index.html/images/44680882_277057012920450_5700922044321890304_n.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://index.html/images/resorte.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://index.html/images/cuadroestrategias.jpg</image:loc>
+      <image:loc>http://index.html/images/44791766_2164105276973486_6108776644170743808_n.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -283,24 +304,69 @@
     </image:image>
   </url>
   <url>
-    <loc>http://index.html/semana-9.html</loc>
-    <lastmod>2018-10-24</lastmod>
+    <loc>http://index.html/semana-11.html</loc>
+    <lastmod>2018-11-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
     <image:image>
       <image:loc>http://index.html/images/home.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://index.html/images/caracterizacionlongitud.jpg</image:loc>
+      <image:loc>http://index.html/images/electronica_bb.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://index.html/images/caracterizacionpesos.jpg</image:loc>
+      <image:loc>http://index.html/images/l298n.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://index.html/semana-10.html</loc>
+    <lastmod>2018-11-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://index.html/images/home.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://index.html/images/44680882_277057012920450_5700922044321890304_n.jpg</image:loc>
+      <image:loc>http://index.html/images/plano1.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://index.html/images/44791766_2164105276973486_6108776644170743808_n.jpg</image:loc>
+      <image:loc>http://index.html/images/plano2.jpg</image:loc>
     </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/rtv1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/rtv5.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/rtv4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/rtv2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/rtv3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/actuador1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/actuador2.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://index.html/semana-12.html</loc>
+    <lastmod>2018-11-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://index.html/images/home.png</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://index.html/assets/cad.rar</loc>
+    <lastmod>2018-11-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
   </url>
 </urlset>
