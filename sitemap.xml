@@ -229,7 +229,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://index.html/semana-9.html</loc>
+    <loc>http://index.html/semana-10.html</loc>
     <lastmod>2018-11-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -237,16 +237,31 @@
       <image:loc>http://index.html/images/home.png</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://index.html/images/caracterizacionlongitud.jpg</image:loc>
+      <image:loc>http://index.html/images/plano1.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://index.html/images/caracterizacionpesos.jpg</image:loc>
+      <image:loc>http://index.html/images/plano2.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://index.html/images/44680882_277057012920450_5700922044321890304_n.jpg</image:loc>
+      <image:loc>http://index.html/images/rtv1.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://index.html/images/44791766_2164105276973486_6108776644170743808_n.jpg</image:loc>
+      <image:loc>http://index.html/images/rtv5.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/rtv4.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/rtv2.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/rtv3.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/actuador1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/actuador2.jpg</image:loc>
     </image:image>
   </url>
   <url>
@@ -304,6 +319,42 @@
     </image:image>
   </url>
   <url>
+    <loc>http://index.html/semana-9.html</loc>
+    <lastmod>2018-11-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://index.html/images/home.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/caracterizacionlongitud.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/caracterizacionpesos.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/44680882_277057012920450_5700922044321890304_n.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/44791766_2164105276973486_6108776644170743808_n.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/graficacaract1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://index.html/images/graficacaract2.jpg</image:loc>
+    </image:image>
+  </url>
+  <url>
+    <loc>http://index.html/semana-12.html</loc>
+    <lastmod>2018-11-14</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <image:image>
+      <image:loc>http://index.html/images/home.png</image:loc>
+    </image:image>
+  </url>
+  <url>
     <loc>http://index.html/semana-11.html</loc>
     <lastmod>2018-11-14</lastmod>
     <changefreq>weekly</changefreq>
@@ -319,43 +370,7 @@
     </image:image>
   </url>
   <url>
-    <loc>http://index.html/semana-10.html</loc>
-    <lastmod>2018-11-14</lastmod>
-    <changefreq>weekly</changefreq>
-    <priority>0.5</priority>
-    <image:image>
-      <image:loc>http://index.html/images/home.png</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://index.html/images/plano1.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://index.html/images/plano2.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://index.html/images/rtv1.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://index.html/images/rtv5.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://index.html/images/rtv4.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://index.html/images/rtv2.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://index.html/images/rtv3.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://index.html/images/actuador1.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://index.html/images/actuador2.jpg</image:loc>
-    </image:image>
-  </url>
-  <url>
-    <loc>http://index.html/semana-12.html</loc>
+    <loc>http://index.html/semana-13.html</loc>
     <lastmod>2018-11-14</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
